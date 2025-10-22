@@ -105,6 +105,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="APIResponses\RecordingTodayWasABeautifulDay4ManyPausesWav\638965697588229261Service.json" />
+    <None Include="APIResponses\RecordingTodayWasABeautifulDay4ManyPausesWav\638965697588319345Service.json" />
+    <None Include="APIResponses\RecordingTodayWasABeautifulDay4ManyPausesWav\638965697589021356Service.json" />
+    <None Include="APIResponses\RecordingTodayWasABeautifulDay4ManyPausesWav\638965697601769234Service.json" />
+    <None Include="APIResponses\RecordingTodayWasABeautifulDay4ManyPausesWav\638965697613076784Service.json" />
+    <None Include="APIResponses\RecordingTodayWasABeautifulDay4ManyPausesWav\638965697662243986Service.json" />
+    <None Include="APIResponses\RecordingTodayWasABeautifulDay4ManyPausesWav\638965697692796145Service.json" />
+    <None Include="APIResponses\RecordingTodayWasABeautifulDay4ManyPausesWav\638965697696343841Service.json" />
+    <None Include="APIResponses\RecordingTodayWasABeautifulDay4ManyPausesWav\638965697704917944Service.json" />
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
@@ -122,6 +131,7 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="packages\Microsoft.CognitiveServices.Speech.1.46.0\build\net462\Microsoft.CognitiveServices.Speech.targets" Condition="Exists('packages\Microsoft.CognitiveServices.Speech.1.46.0\build\net462\Microsoft.CognitiveServices.Speech.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

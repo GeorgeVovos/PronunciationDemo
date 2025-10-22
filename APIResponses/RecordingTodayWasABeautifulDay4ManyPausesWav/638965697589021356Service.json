@@ -1,0 +1,73 @@
+{
+    "Id": "4c2eb3f34c7a4527bb338560306f8c4f",
+    "RecognitionStatus": "Success",
+    "Offset": 50200000,
+    "Duration": 4300000,
+    "Channel": 0,
+    "DisplayText": "A.",
+    "SNR": 24.989555,
+    "NBest": [{
+            "Confidence": 0.040654197,
+            "Lexical": "a",
+            "ITN": "a",
+            "MaskedITN": "a",
+            "Display": "A.",
+            "PronunciationAssessment": {
+                "AccuracyScore": 100.0,
+                "FluencyScore": 100.0,
+                "ProsodyScore": 23.3,
+                "CompletenessScore": 100.0,
+                "PronScore": 69.3
+            },
+            "Words": [{
+                    "Word": "a",
+                    "Offset": 50200000,
+                    "Duration": 4300000,
+                    "PronunciationAssessment": {
+                        "AccuracyScore": 100.0,
+                        "ErrorType": "None",
+                        "Feedback": {
+                            "Prosody": {
+                                "Break": {
+                                    "ErrorTypes": ["None"],
+                                    "UnexpectedBreak": {
+                                        "Confidence": 3.4318182
+                                    },
+                                    "MissingBreak": {
+                                        "Confidence": 0.0
+                                    },
+                                    "BreakLength": 15100000
+                                },
+                                "Intonation": {
+                                    "ErrorTypes": [],
+                                    "Monotone": {
+                                        "SyllablePitchDeltaConfidence": 0.50218755
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Syllables": [{
+                            "Syllable": "ah",
+                            "Grapheme": "a",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 50200000,
+                            "Duration": 4300000
+                        }
+                    ],
+                    "Phonemes": [{
+                            "Phoneme": "ah",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 50200000,
+                            "Duration": 4300000
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

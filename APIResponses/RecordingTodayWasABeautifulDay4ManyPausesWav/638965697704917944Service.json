@@ -1,0 +1,87 @@
+{
+    "Id": "8dfb5130294b492fa1e25dc0437e75bf",
+    "RecognitionStatus": "Success",
+    "Offset": 298400000,
+    "Duration": 4700000,
+    "Channel": 0,
+    "DisplayText": "Rain.",
+    "SNR": 21.311827,
+    "NBest": [{
+            "Confidence": 0.867961,
+            "Lexical": "rain",
+            "ITN": "rain",
+            "MaskedITN": "rain",
+            "Display": "Rain.",
+            "PronunciationAssessment": {
+                "AccuracyScore": 93.0,
+                "FluencyScore": 100.0,
+                "ProsodyScore": 66.3,
+                "CompletenessScore": 100.0,
+                "PronScore": 85.1
+            },
+            "Words": [{
+                    "Word": "rain",
+                    "Offset": 298400000,
+                    "Duration": 4700000,
+                    "PronunciationAssessment": {
+                        "AccuracyScore": 93.0,
+                        "ErrorType": "None",
+                        "Feedback": {
+                            "Prosody": {
+                                "Break": {
+                                    "ErrorTypes": ["None"],
+                                    "UnexpectedBreak": {
+                                        "Confidence": 2.6041667
+                                    },
+                                    "MissingBreak": {
+                                        "Confidence": 0.0
+                                    },
+                                    "BreakLength": 12500000
+                                },
+                                "Intonation": {
+                                    "ErrorTypes": [],
+                                    "Monotone": {
+                                        "SyllablePitchDeltaConfidence": 0.50218755
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Syllables": [{
+                            "Syllable": "reyn",
+                            "Grapheme": "rain",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 91.0
+                            },
+                            "Offset": 298400000,
+                            "Duration": 4700000
+                        }
+                    ],
+                    "Phonemes": [{
+                            "Phoneme": "r",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 90.0
+                            },
+                            "Offset": 298400000,
+                            "Duration": 2000000
+                        }, {
+                            "Phoneme": "ey",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 300500000,
+                            "Duration": 1100000
+                        }, {
+                            "Phoneme": "n",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 86.0
+                            },
+                            "Offset": 301700000,
+                            "Duration": 1400000
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

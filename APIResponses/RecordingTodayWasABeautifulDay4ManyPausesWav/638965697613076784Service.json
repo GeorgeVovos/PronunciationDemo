@@ -1,0 +1,155 @@
+{
+    "Id": "d12b439404904b5e8620b591eec0fdb7",
+    "RecognitionStatus": "Success",
+    "Offset": 99300000,
+    "Duration": 11100000,
+    "Channel": 0,
+    "DisplayText": "Great time.",
+    "SNR": 31.191433,
+    "NBest": [{
+            "Confidence": 0.955858,
+            "Lexical": "great time",
+            "ITN": "great time",
+            "MaskedITN": "great time",
+            "Display": "Great time.",
+            "PronunciationAssessment": {
+                "AccuracyScore": 94.0,
+                "FluencyScore": 98.0,
+                "ProsodyScore": 87.9,
+                "CompletenessScore": 100.0,
+                "PronScore": 93.6
+            },
+            "Words": [{
+                    "Word": "great",
+                    "Offset": 99300000,
+                    "Duration": 5500000,
+                    "PronunciationAssessment": {
+                        "AccuracyScore": 94.0,
+                        "ErrorType": "None",
+                        "Feedback": {
+                            "Prosody": {
+                                "Break": {
+                                    "ErrorTypes": ["None"],
+                                    "UnexpectedBreak": {
+                                        "Confidence": 2.3090909
+                                    },
+                                    "MissingBreak": {
+                                        "Confidence": 0.0
+                                    },
+                                    "BreakLength": 12700000
+                                },
+                                "Intonation": {
+                                    "ErrorTypes": [],
+                                    "Monotone": {
+                                        "SyllablePitchDeltaConfidence": 0.31400368
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Syllables": [{
+                            "Syllable": "greyt",
+                            "Grapheme": "great",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 94.0
+                            },
+                            "Offset": 99300000,
+                            "Duration": 5500000
+                        }
+                    ],
+                    "Phonemes": [{
+                            "Phoneme": "g",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 94.0
+                            },
+                            "Offset": 99300000,
+                            "Duration": 2500000
+                        }, {
+                            "Phoneme": "r",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 94.0
+                            },
+                            "Offset": 101900000,
+                            "Duration": 1100000
+                        }, {
+                            "Phoneme": "ey",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 94.0
+                            },
+                            "Offset": 103100000,
+                            "Duration": 900000
+                        }, {
+                            "Phoneme": "t",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 94.0
+                            },
+                            "Offset": 104100000,
+                            "Duration": 700000
+                        }
+                    ]
+                }, {
+                    "Word": "time",
+                    "Offset": 105100000,
+                    "Duration": 5300000,
+                    "PronunciationAssessment": {
+                        "AccuracyScore": 94.0,
+                        "ErrorType": "None",
+                        "Feedback": {
+                            "Prosody": {
+                                "Break": {
+                                    "ErrorTypes": ["None"],
+                                    "UnexpectedBreak": {
+                                        "Confidence": 0.036363654
+                                    },
+                                    "MissingBreak": {
+                                        "Confidence": 0.9818182
+                                    },
+                                    "BreakLength": 200000
+                                },
+                                "Intonation": {
+                                    "ErrorTypes": [],
+                                    "Monotone": {
+                                        "SyllablePitchDeltaConfidence": 0.31400368
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Syllables": [{
+                            "Syllable": "taym",
+                            "Grapheme": "time",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 94.0
+                            },
+                            "Offset": 105100000,
+                            "Duration": 5300000
+                        }
+                    ],
+                    "Phonemes": [{
+                            "Phoneme": "t",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 94.0
+                            },
+                            "Offset": 105100000,
+                            "Duration": 1100000
+                        }, {
+                            "Phoneme": "ay",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 94.0
+                            },
+                            "Offset": 106300000,
+                            "Duration": 1100000
+                        }, {
+                            "Phoneme": "m",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 94.0
+                            },
+                            "Offset": 107500000,
+                            "Duration": 2900000
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

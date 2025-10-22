@@ -1,0 +1,109 @@
+{
+    "Id": "f17b49fb83ca4ab6b139624f6b28c9e1",
+    "RecognitionStatus": "Success",
+    "Offset": 278500000,
+    "Duration": 7300000,
+    "Channel": 0,
+    "DisplayText": "Needed.",
+    "SNR": 20.609158,
+    "NBest": [{
+            "Confidence": 0.9316928,
+            "Lexical": "needed",
+            "ITN": "needed",
+            "MaskedITN": "needed",
+            "Display": "Needed.",
+            "PronunciationAssessment": {
+                "AccuracyScore": 100.0,
+                "FluencyScore": 100.0,
+                "ProsodyScore": 82.5,
+                "CompletenessScore": 100.0,
+                "PronScore": 93.0
+            },
+            "Words": [{
+                    "Word": "needed",
+                    "Offset": 278500000,
+                    "Duration": 7300000,
+                    "PronunciationAssessment": {
+                        "AccuracyScore": 100.0,
+                        "ErrorType": "None",
+                        "Feedback": {
+                            "Prosody": {
+                                "Break": {
+                                    "ErrorTypes": ["None"],
+                                    "UnexpectedBreak": {
+                                        "Confidence": 4.810811
+                                    },
+                                    "MissingBreak": {
+                                        "Confidence": 0.0
+                                    },
+                                    "BreakLength": 17800000
+                                },
+                                "Intonation": {
+                                    "ErrorTypes": [],
+                                    "Monotone": {
+                                        "SyllablePitchDeltaConfidence": 0.15002027
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Syllables": [{
+                            "Syllable": "niy",
+                            "Grapheme": "nee",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 278500000,
+                            "Duration": 3300000
+                        }, {
+                            "Syllable": "dihd",
+                            "Grapheme": "ded",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 281900000,
+                            "Duration": 3900000
+                        }
+                    ],
+                    "Phonemes": [{
+                            "Phoneme": "n",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 278500000,
+                            "Duration": 2300000
+                        }, {
+                            "Phoneme": "iy",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 280900000,
+                            "Duration": 900000
+                        }, {
+                            "Phoneme": "d",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 281900000,
+                            "Duration": 900000
+                        }, {
+                            "Phoneme": "ih",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 282900000,
+                            "Duration": 500000
+                        }, {
+                            "Phoneme": "d",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 283500000,
+                            "Duration": 2300000
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "Id": "326bf83ef075443f81f0329db5b2f10a",
+    "RecognitionStatus": "Success",
+    "Offset": 5000000,
+    "Duration": 7800000,
+    "Channel": 0,
+    "DisplayText": "Today.",
+    "SNR": 33.107788,
+    "NBest": [{
+            "Confidence": 0.9463329,
+            "Lexical": "today",
+            "ITN": "today",
+            "MaskedITN": "today",
+            "Display": "Today.",
+            "PronunciationAssessment": {
+                "AccuracyScore": 100.0,
+                "FluencyScore": 100.0,
+                "ProsodyScore": 76.9,
+                "CompletenessScore": 100.0,
+                "PronScore": 90.8
+            },
+            "Words": [{
+                    "Word": "today",
+                    "Offset": 5000000,
+                    "Duration": 7800000,
+                    "PronunciationAssessment": {
+                        "AccuracyScore": 100.0,
+                        "ErrorType": "None",
+                        "Feedback": {
+                            "Prosody": {
+                                "Break": {
+                                    "ErrorTypes": ["None"],
+                                    "BreakLength": 0
+                                },
+                                "Intonation": {
+                                    "ErrorTypes": ["Monotone"],
+                                    "Monotone": {
+                                        "SyllablePitchDeltaConfidence": 0.21111143
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Syllables": [{
+                            "Syllable": "tax",
+                            "Grapheme": "to",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 5000000,
+                            "Duration": 2300000
+                        }, {
+                            "Syllable": "dey",
+                            "Grapheme": "day",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 7400000,
+                            "Duration": 5400000
+                        }
+                    ],
+                    "Phonemes": [{
+                            "Phoneme": "t",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 5000000,
+                            "Duration": 1400000
+                        }, {
+                            "Phoneme": "ax",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 6500000,
+                            "Duration": 800000
+                        }, {
+                            "Phoneme": "d",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 7400000,
+                            "Duration": 1500000
+                        }, {
+                            "Phoneme": "ey",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 9000000,
+                            "Duration": 3800000
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

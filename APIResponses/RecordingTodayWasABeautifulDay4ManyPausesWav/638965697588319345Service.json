@@ -1,0 +1,87 @@
+{
+    "Id": "7a9238b9f77841ff8efda59f46eb87e5",
+    "RecognitionStatus": "Success",
+    "Offset": 27700000,
+    "Duration": 7300000,
+    "Channel": 0,
+    "DisplayText": "Was.",
+    "SNR": 25.612616,
+    "NBest": [{
+            "Confidence": 0.7774214,
+            "Lexical": "was",
+            "ITN": "was",
+            "MaskedITN": "was",
+            "Display": "Was.",
+            "PronunciationAssessment": {
+                "AccuracyScore": 100.0,
+                "FluencyScore": 100.0,
+                "ProsodyScore": 63.5,
+                "CompletenessScore": 100.0,
+                "PronScore": 85.4
+            },
+            "Words": [{
+                    "Word": "was",
+                    "Offset": 27700000,
+                    "Duration": 7300000,
+                    "PronunciationAssessment": {
+                        "AccuracyScore": 100.0,
+                        "ErrorType": "None",
+                        "Feedback": {
+                            "Prosody": {
+                                "Break": {
+                                    "ErrorTypes": ["None"],
+                                    "UnexpectedBreak": {
+                                        "Confidence": 2.0
+                                    },
+                                    "MissingBreak": {
+                                        "Confidence": 0.0
+                                    },
+                                    "BreakLength": 14800000
+                                },
+                                "Intonation": {
+                                    "ErrorTypes": [],
+                                    "Monotone": {
+                                        "SyllablePitchDeltaConfidence": 0.50218755
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Syllables": [{
+                            "Syllable": "waaz",
+                            "Grapheme": "was",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 27700000,
+                            "Duration": 7300000
+                        }
+                    ],
+                    "Phonemes": [{
+                            "Phoneme": "w",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 27700000,
+                            "Duration": 1900000
+                        }, {
+                            "Phoneme": "aa",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 29700000,
+                            "Duration": 1900000
+                        }, {
+                            "Phoneme": "z",
+                            "PronunciationAssessment": {
+                                "AccuracyScore": 100.0
+                            },
+                            "Offset": 31700000,
+                            "Duration": 3300000
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
